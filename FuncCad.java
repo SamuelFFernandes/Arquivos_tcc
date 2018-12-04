@@ -9,5 +9,6 @@ public class FuncCad implements ActionListener{
 	}
 	public void actionPerformed (ActionEvent acao){
 		telaAux8.setVisible(true);
+		
     }	
 }

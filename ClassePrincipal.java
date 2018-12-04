@@ -5,7 +5,8 @@ public static void main(String[] args){
        SwingUtilities.invokeLater(new Runnable() {  
             public void run() {  
                 TelaIntroducao thisClass = new TelaIntroducao();                 
-              thisClass.setVisible(true);  
+              thisClass.setVisible(true); 
+				System.out.print("CAVALARIA!!!!");			  
             }  
         });  
     }
